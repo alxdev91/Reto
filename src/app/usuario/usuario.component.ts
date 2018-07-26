@@ -11,5 +11,8 @@ export class UsuarioComponent implements OnInit {
 
   ngOnInit() {
   }
+  Comprar() {
+      alert("Producto comprado");
+  };
 
 }
